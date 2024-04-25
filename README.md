@@ -55,9 +55,8 @@ Ensured compliance with software licensing regulations during installations and 
 <h2>📺 Certifications ..</h2>
 
   
-<h2> 🤳 Connect with me:</h2>
+<h6> 🤳 Connect with me:</h6>
 
-[<img align="left" alt="DenselEsekon | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="DenselEsekon | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="DenselEsekon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="DenselEsekon | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
