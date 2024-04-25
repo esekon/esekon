@@ -1,4 +1,4 @@
-<h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a> . <a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a> . <a href="https://github.com/esekon">Software Engineer</a>, 
+<h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a> . <a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a> . <a href="https://github.com/esekon">Software Engineer</a> 
 
 <h2>👨‍💻 Job Experience:</h2>
 
