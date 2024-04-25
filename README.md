@@ -1,8 +1,8 @@
-<h1>Hi, Densel Esekon! <br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a>,<a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a>, <a href="https://github.com/esekon">Software Engineer</a>, 
+<h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a>,<a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a>, <a href="https://github.com/esekon">Software Engineer</a>, 
 
 <h2>👨‍💻 Job Experience:</h2>
 
-- <b>Associate Salesforce Admin & IT Support - Moringa School LTD (Dec 2023 - Present) </b>
+- <b>Associate Salesforce Admin & IT Support --Moringa School LTD (Dec 2023 - Present) </b>
 
   - Process Optimization: Regularly review procedures, identify opportunities for improvement, and implement enhancements to streamline business processes and increase efficiency.
   - Technical Support Management: Respond to internal stakeholders' support tickets, conduct analysis, troubleshoot issues, and escalate as necessary while maintaining clear communication through service desk tickets or virtual calls.
@@ -10,7 +10,7 @@
   - Data Management and Auditing: Import data into Salesforce using various tools, perform audits of the Salesforce org to ensure adherence to best practices, cleanliness, and feature adoption, and onboard new users effectively.
   - User Training and Collaboration: Conduct user training sessions, provide technical assistance for hardware, software, and network issues, collaborate with cross-functional teams on IT projects, and offer guidance on best practices for technology utilization.
 
-- <b> IT Support & Salesforce Admin - Moringa School LTD (May 2023 - Feb 2024) </b>
+- <b> IT Support & Salesforce Admin - --Moringa School LTD (May 2023 - Feb 2024) </b>
 
   - Technical Troubleshooting and Help Desk Support: Proficient in diagnosing and resolving hardware, software, and network issues to minimize downtime and maintaining smooth operations. Extensive experience in managing technical inquiries, incident handling, and service requests with a customer-centric approach.
   - User Training and System Administration: Skilled in training end-users on software, hardware, and IT best practices to boost productivity and optimize technology usage. Capable in user account management, access control, and ensuring system integrity through regular maintenance, updates, and patches.
