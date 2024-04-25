@@ -1,4 +1,4 @@
-<h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a>,<a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a>, <a href="https://github.com/esekon">Software Engineer</a>, 
+<h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a> . <a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a> . <a href="https://github.com/esekon">Software Engineer</a>, 
 
 <h2>👨‍💻 Job Experience:</h2>
 
@@ -17,7 +17,7 @@
   - Asset Management Assistance and Technical Support: Acted as the primary point of contact for asset management, ensuring accurate records of all hardware and software assets. Provided training and support to end-users on asset management policies and procedures. Additionally, provided technical support to end-users, troubleshooting hardware and software issues, managing user accounts, and resolving incidents and service requests within established SLAs. Collaborated with internal and external technical teams to resolve complex technical issues and contributed to the design, implementation, and maintenance of IT infrastructure.
 
 
-  - <b> Information Communication Technology Officer - Kengen PLC (Jan 2020 - June 2021)</b>
+- <b> Information Communication Technology Officer - Kengen PLC (Jan 2020 - June 2021)</b>
   
   - ICT Equipment Management: Installed, maintained, and repaired a wide range of ICT equipment, including network devices, access points, routers, switches, VoIP phones, and video conferencing hardware.
 Managed ICT inventory, including ordering, tagging, and ensuring assets are part of the ICT asset inventory.
