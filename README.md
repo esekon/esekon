@@ -28,7 +28,7 @@ Created user accounts and managed access to company networks and department-spec
 Provided both desk-side and telephone-based hardware and software technical support and training for the IT Help Desk.
 Delivered basic user training and disseminated technological information and updates to all staff for optimal technology usage.
 
-  - Software Management: Installed and upgraded both system and application software, adhering to all licensing regulations.
+  - [Software Management: Installed and upgraded both system and application software, adhering to all licensing regulations].
 Ensured compliance with software licensing regulations during installations and upgrades.
  
     
