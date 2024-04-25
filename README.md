@@ -1,5 +1,22 @@
 <h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a> . <a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a> . <a href="https://github.com/esekon">Software Engineer</a> 
 
+<h2>👨‍💻 Software Engineering is enjoyable with the right <b>Mindset and Skills </b>b></h2>
+
+- <b> I use this langauages to transform ideas into meaningful, beautiful and innovative 1`s and 0`s ( React, NodeJS, MUI, Python-Flask)</b>
+
+<h2> 🔭 I’m currently working on ... <h2/>
+- <b> Building Learning Management Platform </b>
+- <b> Building Bus Trips Management system </b>
+  
+<h2> 👯 I’m looking to collaborate on ... <h2/>
+- <b> Building RestfullAPI`s .. </b>
+- <b> Learning DeVops ...</b>
+- <b>Making the world a better place</b>
+
+<h2> ⚡  Fun fact <h2/>
+- <b> Dress how you want to be addressed !</b>
+
+  
 <h2>👨‍💻 Job Experience:</h2>
 
 - <b>Associate Salesforce Admin & IT Support --Moringa School LTD (Dec 2023 - Present) </b>
@@ -28,16 +45,13 @@ Created user accounts and managed access to company networks and department-spec
 Provided both desk-side and telephone-based hardware and software technical support and training for the IT Help Desk.
 Delivered basic user training and disseminated technological information and updates to all staff for optimal technology usage.
 
-  - [Software Management: Installed and upgraded both system and application software, adhering to all licensing regulations].
+  - Software Management: Installed and upgraded both system and application software, adhering to all licensing regulations.
 Ensured compliance with software licensing regulations during installations and upgrades.
- 
-    
-- <b>Full Stack Web App (React, NodeJS, MUI, Python-Flask, RestFullAPI)</b>
-  - [Image Analysis Middleware](https://github.com/esekon/Student-portal) <b><i>(Working on it)</b></i>
 
-<h2>📺 Popular YouTube Videos</h2>
+  
 
-- [How to get into Cybersecurity Starting From Zero]
+<h2>📺 Certifications ..</h2>
+
   
 <h2> 🤳 Connect with me:</h2>
 
@@ -49,18 +63,3 @@ Ensured compliance with software licensing regulations during installations and 
 [twitter]: https://twitter.com/Densel_E
 [instagram]: https://www.instagram.com/densele/
 [linkedin]: https://linkedin.com/in/denselesekon
-
-<!--
-**esekon/esekon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
