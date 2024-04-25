@@ -1,19 +1,21 @@
 <h1>Hi, I`m Densel! <br/><br/><a href="https://www.linkedin.com/in/denselesekon/">IT Professional</a> . <a href="https://www.linkedin.com/in/denselesekon/">Salesforce Administrator</a> . <a href="https://github.com/esekon">Software Engineer</a> 
 
-<h2>👨‍💻 Software Engineering is enjoyable with the right <b>Mindset and Skills </b>b></h2>
+<h2>👨‍💻 Software Engineering is enjoyable with the right <b>Mindset and Skills </b></h2>
 
-- <b> I use this langauages to transform ideas into meaningful, beautiful and innovative 1`s and 0`s ( React, NodeJS, MUI, Python-Flask)</b>
+- I use this langauages to transform ideas into meaningful, beautiful and innovative 1`s and 0`s <b>  Javascript. ReactJS. NodeJS. MUI. Tailwinds CSS. Python-Flask </b>
 
-<h2> 🔭 I’m currently working on ... <h2/>
-- <b> Building Learning Management Platform </b>
-- <b> Building Bus Trips Management system </b>
+<h4> 🔭 I’m currently working on ... <h4/> 
   
-<h2> 👯 I’m looking to collaborate on ... <h2/>
-- <b> Building RestfullAPI`s .. </b>
-- <b> Learning DeVops ...</b>
-- <b>Making the world a better place</b>
+- Building Learning Management Platform 
+- Building Bus Trips Management system 
+  
+<h4> 👯 I’m looking to collaborate on ... <h4/>
+  
+- Building RestfullAPI`s ..
+- Learning DeVops ...
+- Making the world a better place
 
-<h2> ⚡  Fun fact <h2/>
+<h4> ⚡  Fun fact <h4/>
 - <b> Dress how you want to be addressed !</b>
 
   
