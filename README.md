@@ -3,7 +3,7 @@
 <h2>👨‍💻 Job Experience:</h2>
 
 - <b>Associate Salesforce Admin & IT Support (Dec 2023 - Present)</b>
-  - - <b> Moringa School LTD </b>
+   - <b> Moringa School LTD </b>
   - Reviewing procedures regularly, identifying and implementing continuous improvements to streamline and enhance business processes.
   - Responding to support tickets from internal stakeholders, performing analysis, information gathering, troubleshooting, and escalations while communicating via service desk tickets or virtual calls.
   - Implement Salesforce configuration changes such as Custom Objects, Profiles and Roles, validation rules, page layouts, fields, processes, and workflows that drive internal efficiencies using low-code, no-code approaches like Flow and Lightning App Builder.
@@ -49,7 +49,7 @@
     - Contributed to the development of IT policies, procedures, and standards, including providing input on best practices and emerging technologies, to ensure a robust and secure IT environment for the organization.
 
 
-  - <b> ICT Officer (Jan 2020 - June 2021)</b>
+  - <b> Information Communication Technology Officer (Jan 2020 - June 2021)</b>
     - - <b> Kengen PLC </b>
   - Installed, maintained, and repaired a wide range of ICT equipment, including network devices, access points, routers, switches, VoIP phones, and video conferencing hardware.
   - Provided proactive and responsible ICT support, responding to requests in a timely manner to minimize disruptions to company activities.
